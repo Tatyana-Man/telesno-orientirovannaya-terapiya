@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://telesno-orientirovannaya-terapiya.vercel.app/sitemap.xml
